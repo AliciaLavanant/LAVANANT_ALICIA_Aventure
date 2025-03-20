@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scr_ReduceLife",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Scr_ReduceLife",
+  "parent":{
+    "name":"Life_Script",
+    "path":"folders/Scripts/Life_Script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
